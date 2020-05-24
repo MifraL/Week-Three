@@ -1,15 +1,20 @@
 Recording 
 
-In your journal.md for this week, think about all of the little decisions you have to make about the material as you clean and transform it. What is the value of/for historians (regular historians) showing their work, as opposed to, or in contrast to, what digital historians have to do? Where is the scholarly value in showing your work - and contrast this with how you’ve written history to date.
-Read 
-•	James Baker, 2017. ‘The Soft Digital History That Underpins My Book’ https://cradledincaricature.com/2017/05/24/the-soft-digital-history-that-underpins-my-book/
+- clean data for years
+- go to platform = excel 
+- depended on precise measurements = one wrong cell data = cost entire analysis to be off
+- "hidden" or visible data
+- methods/ materials are both measy
+- reflect the value of showing your work 
+
+Reading 1:James Baker, 2017. ‘The Soft Digital History That Underpins My Book.’
 
 -	Space when writing about the context within printed images were made and sold
 -	Not see patterns… removed stationers leaving only the former maps so that author could think about spatial patterns associated with other business categories 
 -	Maps were not added into his book they served as to help in his thinking process… and analysis 
 -	Criticized by his student for omitting them 
 
-•	James Baker, 2017. ‘https://cradledincaricature.com/2017/06/06/the-hard-digital-history-that-underpins-my-book/'
+Reading 2: James Baker, 2017. 'The hard digital history that underpins my book.'
 
 -	Talks a bit about the previous article and how he hid the digital work… or rather did not make it to the final product
 -	Good history = concise, precise and selective where things are left out in interpretations 
