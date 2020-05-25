@@ -42,9 +42,5 @@ Bonus... not finished
 ![image i just uploaded](bonus2.JPG)
 ![image i just uploaded](bonus3.JPG)
 ![image i just uploaded](bonus4.JPG)
-![image i just uploaded](bonus5.JPG)
-![image i just uploaded](bonus6.JPG)
-![image i just uploaded](bonus1.JPG)
-![image i just uploaded](bonus1.JPG)
-![image i just uploaded](bonus1.JPG)
+
 
