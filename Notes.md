@@ -22,9 +22,29 @@ Open Refine
 ![image i just uploaded](openrefine7.JPG)
 ![image i just uploaded](openrefine8.JPG)
 
-Network
+Network~Palladio
 
 ![image i just uploaded](network1.JPG)
 ![image i just uploaded](network2.JPG)
 ![image i just uploaded](network3.JPG)
 ![image i just uploaded](network4.JPG)
+
+Gephi
+
+![image i just uploaded](gephi1.JPG)
+![image i just uploaded](gephi2.JPG)
+![image i just uploaded](gephi3.JPG)
+![image i just uploaded](gephi4.JPG)
+
+Bonus... not finished
+
+![image i just uploaded](bonus1.JPG)
+![image i just uploaded](bonus2.JPG)
+![image i just uploaded](bonus3.JPG)
+![image i just uploaded](bonus4.JPG)
+![image i just uploaded](bonus5.JPG)
+![image i just uploaded](bonus6.JPG)
+![image i just uploaded](bonus1.JPG)
+![image i just uploaded](bonus1.JPG)
+![image i just uploaded](bonus1.JPG)
+
