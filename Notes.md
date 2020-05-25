@@ -21,15 +21,15 @@ REGEX
 
 Open Refine
 
--I coult not open it at first. The site was not working for me so I had to dowlaod java... and after that I tried extracting the files.
+- I coult not open it at first. The site was not working for me so I had to dowlaod java... and after that I tried extracting the files.
 - It still was not opening so I had to open the program inside the folder and extract that and then cancel it because I already extracted and it somehow worked... It opened on my internet explorer as I had dowloaded Java using that platform. 
--When I downloaded my file, it was missing one column, I had to add one extra according to https://guides.library.illinois.edu/openrefine/splitting
--There were some extra lines that did included random content numbers, I did not select the contents numbers when doing merge with similar topics
+- When I downloaded my file, it was missing one column, I had to add one extra according to https://guides.library.illinois.edu/openrefine/splitting
+- There were some extra lines that did included random content numbers, I did not select the contents numbers when doing merge with similar topics
 - When I exported the file, it was saved as 3 final columns similar to sidxi. He gave some tips but it did not work.  
 - So for the network, I decided to use the prof's file 
 After having done all the exercises, I found where my mistake was through this video
 @https://www.youtube.com/watch?v=UD-VOjXZN4k&list=PLw4wN8PcDj_CcydCNwqUUHWZCIkA3obZC&index=10
--I had not uncheck the date column when I was exporting my file
+- I had not uncheck the date column when I was exporting my file
 
 ![image i just uploaded](openrefine1.JPG)
 ![image i just uploaded](openrefine2.JPG)
@@ -43,7 +43,7 @@ After having done all the exercises, I found where my mistake was through this v
 Network~Palladio
 
 - I tried the Databasic.io, it was not working. The page had an error message like most of my classmates (nadia, Kieran h, myshelle, zoe, … )
--So I did it on palladio by following the instructions of the prof
+- So I did it on palladio by following the instructions of the prof
 
 ![image i just uploaded](network1.JPG)
 ![image i just uploaded](network2.JPG)
@@ -54,7 +54,7 @@ Gephi
 
 - It took me awhile to download it , so I spent a whole day trying to dowload the program and thinking of what could be wrong and I realized the version of Java that I had was not the right one.
 - Then I could open the program after I haad dowloaded the correct 64-bit Java for windows
--When I first opened the application, I followed the steps without opening texascorrespondence. It didn't work.
+- When I first opened the application, I followed the steps without opening texascorrespondence. It didn't work.
 - After my realization, everything else was smooth.
 
 ![image i just uploaded](gephi1.JPG)
